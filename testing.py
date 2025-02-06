@@ -1,4 +1,4 @@
 a= 10
-b= 30
-c=a-b
+b= 20
+c=a+b
 print(c)
